@@ -6,6 +6,6 @@ This is a movie info description service.
 To preview the site visit 
 `rxFlix.netlify.com`
 
-:warning :construction
+:warning: :construction:
 
 Work in Progress
